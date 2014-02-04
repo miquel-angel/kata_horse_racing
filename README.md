@@ -4,11 +4,13 @@ kata_horse_racing
 We need to create a system to calculate the general ranking for a horse racing championship that consist on several races.
 There are 2 types of races, with different ranking system:  
   Trial Race: 
+  --------------- 
     1st gets 10 points 
     2nd gets 7 points 
     3rd 3 points 
     4th 1 point  
-  Classic Race: 
+  Classic Race:
+  ---------------  
     1st gets 25 points 
     2nd gets 18 points 
     3rd gets 10 points 
