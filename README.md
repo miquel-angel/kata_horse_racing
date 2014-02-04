@@ -32,6 +32,8 @@ An example would be the following:
     3rd "Always places third"   
 With a penalti for "John the little horse" of 3 points, the final championship ranking would be  
 
-  John the little horse 29 points 
-  Horsy 28 points 
-  Always places third 13 points
+  Global Classification
+  ------------------
+    John the little horse 29 points
+    Horsy 28 points
+    Always places third 13 points
